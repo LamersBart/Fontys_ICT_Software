@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/bin/Debug/net5.0/DB-WK2-Demo.deps.json
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/bin/Debug/net5.0/DB-WK2-Demo.runtimeconfig.json
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/bin/Debug/net5.0/DB-WK2-Demo.runtimeconfig.dev.json
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/bin/Debug/net5.0/DB-WK2-Demo.dll
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/bin/Debug/net5.0/ref/DB-WK2-Demo.dll
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/bin/Debug/net5.0/DB-WK2-Demo.pdb
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/DB-WK2-Demo.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/DB-WK2-Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/DB-WK2-Demo.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/DB-WK2-Demo.AssemblyInfo.cs
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/DB-WK2-Demo.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/DB-WK2-Demo.dll
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/ref/DB-WK2-Demo.dll
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/DB-WK2-Demo.pdb
+/Users/bartlamers/Projects/DB-WK2-Demo/DB-WK2-Demo/obj/Debug/net5.0/DB-WK2-Demo.genruntimeconfig.cache

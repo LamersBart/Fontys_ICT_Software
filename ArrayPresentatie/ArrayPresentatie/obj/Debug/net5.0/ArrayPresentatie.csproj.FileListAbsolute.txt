@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ArrayPresentatie.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ArrayPresentatie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ArrayPresentatie.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ArrayPresentatie.AssemblyInfo.cs
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ArrayPresentatie.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/bin/Debug/net5.0/ArrayPresentatie.deps.json
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/bin/Debug/net5.0/ArrayPresentatie.runtimeconfig.json
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/bin/Debug/net5.0/ArrayPresentatie.runtimeconfig.dev.json
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/bin/Debug/net5.0/ArrayPresentatie.dll
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/bin/Debug/net5.0/ref/ArrayPresentatie.dll
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/bin/Debug/net5.0/ArrayPresentatie.pdb
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ArrayPresentatie.dll
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ref/ArrayPresentatie.dll
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ArrayPresentatie.pdb
+/Users/bartlamers/Projects/ArrayPresentatie/ArrayPresentatie/obj/Debug/net5.0/ArrayPresentatie.genruntimeconfig.cache

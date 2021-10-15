@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/Televisie.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/Televisie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/Televisie.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/Televisie.AssemblyInfo.cs
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/Televisie.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/Televisie/Televisie/bin/Debug/net5.0/Televisie.deps.json
+/Users/bartlamers/Projects/Televisie/Televisie/bin/Debug/net5.0/Televisie.runtimeconfig.json
+/Users/bartlamers/Projects/Televisie/Televisie/bin/Debug/net5.0/Televisie.runtimeconfig.dev.json
+/Users/bartlamers/Projects/Televisie/Televisie/bin/Debug/net5.0/Televisie.dll
+/Users/bartlamers/Projects/Televisie/Televisie/bin/Debug/net5.0/ref/Televisie.dll
+/Users/bartlamers/Projects/Televisie/Televisie/bin/Debug/net5.0/Televisie.pdb
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/Televisie.dll
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/ref/Televisie.dll
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/Televisie.pdb
+/Users/bartlamers/Projects/Televisie/Televisie/obj/Debug/net5.0/Televisie.genruntimeconfig.cache

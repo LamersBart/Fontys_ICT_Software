@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{DA48A02D-DDEA-4C4F-95AB-4926C36B6D41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalorieënTracker/Program.cs">
+    <Files>
+      <File FileName="CalorieënTracker/Program.cs" Line="32" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalorieënTracker" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalorieënTracker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

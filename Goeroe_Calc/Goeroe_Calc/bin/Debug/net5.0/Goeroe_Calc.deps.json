@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Goeroe_Calc/1.0.0": {
+        "runtime": {
+          "Goeroe_Calc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Goeroe_Calc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

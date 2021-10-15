@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/Goeroe_Calc.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/Goeroe_Calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/Goeroe_Calc.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/Goeroe_Calc.AssemblyInfo.cs
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/Goeroe_Calc.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/bin/Debug/net5.0/Goeroe_Calc.deps.json
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/bin/Debug/net5.0/Goeroe_Calc.runtimeconfig.json
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/bin/Debug/net5.0/Goeroe_Calc.runtimeconfig.dev.json
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/bin/Debug/net5.0/Goeroe_Calc.dll
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/bin/Debug/net5.0/ref/Goeroe_Calc.dll
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/bin/Debug/net5.0/Goeroe_Calc.pdb
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/Goeroe_Calc.dll
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/ref/Goeroe_Calc.dll
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/Goeroe_Calc.pdb
+/Users/bartlamers/Projects/Goeroe_Calc/Goeroe_Calc/obj/Debug/net5.0/Goeroe_Calc.genruntimeconfig.cache

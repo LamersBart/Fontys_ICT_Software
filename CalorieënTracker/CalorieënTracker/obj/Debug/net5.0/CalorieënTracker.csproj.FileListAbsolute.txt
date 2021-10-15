@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/CalorieënTracker.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/CalorieënTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/CalorieënTracker.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/CalorieënTracker.AssemblyInfo.cs
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/CalorieënTracker.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/bin/Debug/net5.0/CalorieënTracker.deps.json
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/bin/Debug/net5.0/CalorieënTracker.runtimeconfig.json
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/bin/Debug/net5.0/CalorieënTracker.runtimeconfig.dev.json
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/bin/Debug/net5.0/CalorieënTracker.dll
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/bin/Debug/net5.0/ref/CalorieënTracker.dll
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/bin/Debug/net5.0/CalorieënTracker.pdb
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/CalorieënTracker.dll
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/ref/CalorieënTracker.dll
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/CalorieënTracker.pdb
+/Users/bartlamers/Projects/CalorieënTracker/CalorieënTracker/obj/Debug/net5.0/CalorieënTracker.genruntimeconfig.cache

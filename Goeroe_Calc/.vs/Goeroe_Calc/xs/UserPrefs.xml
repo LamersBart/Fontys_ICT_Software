@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4ED4D476-28CB-4A53-A1A1-16FB5F421A7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Goeroe__Calc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Goeroe_Calc/Program.cs">
+    <Files>
+      <File FileName="Goeroe_Calc/Program.cs" Line="31" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Goeroe_Calc" expanded="True">
+            <Node name="Goeroe_Calc" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

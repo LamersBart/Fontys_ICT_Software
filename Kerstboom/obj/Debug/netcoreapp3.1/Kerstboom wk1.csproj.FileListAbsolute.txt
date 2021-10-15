@@ -1,0 +1,55 @@
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/bin/Debug/netcoreapp3.1/Kerstboom wk1.exe
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/bin/Debug/netcoreapp3.1/Kerstboom wk1.deps.json
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/bin/Debug/netcoreapp3.1/Kerstboom wk1.runtimeconfig.json
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/bin/Debug/netcoreapp3.1/Kerstboom wk1.runtimeconfig.dev.json
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/bin/Debug/netcoreapp3.1/Kerstboom wk1.dll
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/bin/Debug/netcoreapp3.1/Kerstboom wk1.pdb
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/obj/Debug/netcoreapp3.1/Kerstboom wk1.csproj.AssemblyReference.cache
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/obj/Debug/netcoreapp3.1/Kerstboom wk1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/obj/Debug/netcoreapp3.1/Kerstboom wk1.AssemblyInfoInputs.cache
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/obj/Debug/netcoreapp3.1/Kerstboom wk1.AssemblyInfo.cs
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/obj/Debug/netcoreapp3.1/Kerstboom wk1.csproj.CoreCompileInputs.cache
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/obj/Debug/netcoreapp3.1/Kerstboom wk1.dll
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/obj/Debug/netcoreapp3.1/Kerstboom wk1.pdb
+C:/Users/Gebruiker/source/repos/Kerstboom wk1/obj/Debug/netcoreapp3.1/Kerstboom wk1.genruntimeconfig.cache
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.exe
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.deps.json
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.runtimeconfig.json
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.runtimeconfig.dev.json
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.dll
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.pdb
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.csproj.AssemblyReference.cache
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.AssemblyInfoInputs.cache
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.AssemblyInfo.cs
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.csproj.CoreCompileInputs.cache
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.dll
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.pdb
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.genruntimeconfig.cache
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.exe
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.deps.json
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.runtimeconfig.json
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.runtimeconfig.dev.json
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.dll
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/bin/Debug/netcoreapp3.1/Kerstboom wk1.pdb
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.csproj.AssemblyReference.cache
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.AssemblyInfoInputs.cache
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.AssemblyInfo.cs
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.csproj.CoreCompileInputs.cache
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.dll
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.pdb
+C:/Users/Gebruiker/Documents/Software/Deelproducten/Training/Kerstboom (week 1)/obj/Debug/netcoreapp3.1/Kerstboom wk1.genruntimeconfig.cache
+/Users/bartlamers/Projects/Kerstboom/bin/Debug/netcoreapp3.1/Kerstboom wk1.deps.json
+/Users/bartlamers/Projects/Kerstboom/bin/Debug/netcoreapp3.1/Kerstboom wk1.runtimeconfig.json
+/Users/bartlamers/Projects/Kerstboom/bin/Debug/netcoreapp3.1/Kerstboom wk1.runtimeconfig.dev.json
+/Users/bartlamers/Projects/Kerstboom/bin/Debug/netcoreapp3.1/Kerstboom wk1.dll
+/Users/bartlamers/Projects/Kerstboom/bin/Debug/netcoreapp3.1/Kerstboom wk1.pdb
+/Users/bartlamers/Projects/Kerstboom/obj/Debug/netcoreapp3.1/Kerstboom wk1.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/Kerstboom/obj/Debug/netcoreapp3.1/Kerstboom wk1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/Kerstboom/obj/Debug/netcoreapp3.1/Kerstboom wk1.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/Kerstboom/obj/Debug/netcoreapp3.1/Kerstboom wk1.AssemblyInfo.cs
+/Users/bartlamers/Projects/Kerstboom/obj/Debug/netcoreapp3.1/Kerstboom wk1.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/Kerstboom/obj/Debug/netcoreapp3.1/Kerstboom wk1.dll
+/Users/bartlamers/Projects/Kerstboom/obj/Debug/netcoreapp3.1/Kerstboom wk1.pdb
+/Users/bartlamers/Projects/Kerstboom/obj/Debug/netcoreapp3.1/Kerstboom wk1.genruntimeconfig.cache

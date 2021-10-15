@@ -1,0 +1,30 @@
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.AssemblyInfo.cs
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.deps.json
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.runtimeconfig.json
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.runtimeconfig.dev.json
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.dll
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/bin/Debug/net5.0/ref/WedstrijdContactenlijst.dll
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.pdb
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.dll
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/ref/WedstrijdContactenlijst.dll
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.pdb
+/Users/bartlamers/Projects/WedstrijdContactenlijst/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.genruntimeconfig.cache
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.deps.json
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.runtimeconfig.json
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.runtimeconfig.dev.json
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.dll
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/bin/Debug/net5.0/ref/WedstrijdContactenlijst.dll
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/bin/Debug/net5.0/WedstrijdContactenlijst.pdb
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.AssemblyInfo.cs
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.dll
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/ref/WedstrijdContactenlijst.dll
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.pdb
+/Users/bartlamers/Projects/WedstrijdContactenlijst V2/WedstrijdContactenlijst/obj/Debug/net5.0/WedstrijdContactenlijst.genruntimeconfig.cache

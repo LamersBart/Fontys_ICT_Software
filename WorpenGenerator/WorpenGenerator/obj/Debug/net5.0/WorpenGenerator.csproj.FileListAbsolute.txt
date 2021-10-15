@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/WorpenGenerator.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/WorpenGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/WorpenGenerator.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/WorpenGenerator.AssemblyInfo.cs
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/WorpenGenerator.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/bin/Debug/net5.0/WorpenGenerator.deps.json
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/bin/Debug/net5.0/WorpenGenerator.runtimeconfig.json
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/bin/Debug/net5.0/WorpenGenerator.runtimeconfig.dev.json
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/bin/Debug/net5.0/WorpenGenerator.dll
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/bin/Debug/net5.0/ref/WorpenGenerator.dll
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/bin/Debug/net5.0/WorpenGenerator.pdb
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/WorpenGenerator.dll
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/ref/WorpenGenerator.dll
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/WorpenGenerator.pdb
+/Users/bartlamers/Projects/WorpenGenerator/WorpenGenerator/obj/Debug/net5.0/WorpenGenerator.genruntimeconfig.cache

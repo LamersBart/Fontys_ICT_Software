@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB-WK2-Demo", "DB-WK2-Demo\DB-WK2-Demo.csproj", "{54BD1446-9AB0-4AA3-BE08-28F620E3FCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BD1446-9AB0-4AA3-BE08-28F620E3FCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BD1446-9AB0-4AA3-BE08-28F620E3FCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BD1446-9AB0-4AA3-BE08-28F620E3FCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BD1446-9AB0-4AA3-BE08-28F620E3FCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E316DDEA-10EE-42A6-A55A-27596EDC06DC}
+	EndGlobalSection
+EndGlobal

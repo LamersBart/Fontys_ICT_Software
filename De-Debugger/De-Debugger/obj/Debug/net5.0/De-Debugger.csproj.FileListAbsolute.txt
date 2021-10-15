@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/bin/Debug/net5.0/De-Debugger.deps.json
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/bin/Debug/net5.0/De-Debugger.runtimeconfig.json
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/bin/Debug/net5.0/De-Debugger.runtimeconfig.dev.json
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/bin/Debug/net5.0/De-Debugger.dll
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/bin/Debug/net5.0/ref/De-Debugger.dll
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/bin/Debug/net5.0/De-Debugger.pdb
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/De-Debugger.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/De-Debugger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/De-Debugger.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/De-Debugger.AssemblyInfo.cs
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/De-Debugger.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/De-Debugger.dll
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/ref/De-Debugger.dll
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/De-Debugger.pdb
+/Users/bartlamers/Projects/De-Debugger/De-Debugger/obj/Debug/net5.0/De-Debugger.genruntimeconfig.cache

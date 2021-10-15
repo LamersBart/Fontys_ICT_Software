@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/Ampere/Ampere/bin/Debug/net5.0/Ampere.deps.json
+/Users/bartlamers/Projects/Ampere/Ampere/bin/Debug/net5.0/Ampere.runtimeconfig.json
+/Users/bartlamers/Projects/Ampere/Ampere/bin/Debug/net5.0/Ampere.runtimeconfig.dev.json
+/Users/bartlamers/Projects/Ampere/Ampere/bin/Debug/net5.0/Ampere.dll
+/Users/bartlamers/Projects/Ampere/Ampere/bin/Debug/net5.0/ref/Ampere.dll
+/Users/bartlamers/Projects/Ampere/Ampere/bin/Debug/net5.0/Ampere.pdb
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/Ampere.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/Ampere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/Ampere.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/Ampere.AssemblyInfo.cs
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/Ampere.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/Ampere.dll
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/ref/Ampere.dll
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/Ampere.pdb
+/Users/bartlamers/Projects/Ampere/Ampere/obj/Debug/net5.0/Ampere.genruntimeconfig.cache

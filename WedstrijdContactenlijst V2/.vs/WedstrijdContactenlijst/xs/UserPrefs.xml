@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{11DB9490-3FFE-4B56-BBB5-5F129D509264}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WedstrijdContactenlijst/Program.cs">
+    <Files>
+      <File FileName="WedstrijdContactenlijst/Program.cs" Line="7" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WedstrijdContactenlijst PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

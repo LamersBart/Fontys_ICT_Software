@@ -1,0 +1,15 @@
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/MethodMarathon.csproj.AssemblyReference.cache
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/MethodMarathon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/MethodMarathon.AssemblyInfoInputs.cache
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/MethodMarathon.AssemblyInfo.cs
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/MethodMarathon.csproj.CoreCompileInputs.cache
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/bin/Debug/net5.0/MethodMarathon.deps.json
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/bin/Debug/net5.0/MethodMarathon.runtimeconfig.json
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/bin/Debug/net5.0/MethodMarathon.runtimeconfig.dev.json
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/bin/Debug/net5.0/MethodMarathon.dll
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/bin/Debug/net5.0/ref/MethodMarathon.dll
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/bin/Debug/net5.0/MethodMarathon.pdb
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/MethodMarathon.dll
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/ref/MethodMarathon.dll
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/MethodMarathon.pdb
+/Users/bartlamers/Projects/MethodMarathon/MethodMarathon/obj/Debug/net5.0/MethodMarathon.genruntimeconfig.cache

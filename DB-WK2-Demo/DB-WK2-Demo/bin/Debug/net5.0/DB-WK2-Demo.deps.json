@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DB-WK2-Demo/1.0.0": {
+        "runtime": {
+          "DB-WK2-Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DB-WK2-Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
