@@ -28,4 +28,4 @@ add_location(51.451814, 5.479655)
 
 for locations in allLocations:
     print(locations)
-    r = requests.post("", params=locations)
+    r = requests.post("", params=allLocations[locations])
